@@ -1,1 +1,0 @@
-insolation.h
