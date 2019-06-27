@@ -1,1 +1,1 @@
-I am a Git developer
+I am a Git developer and I'm proud!
